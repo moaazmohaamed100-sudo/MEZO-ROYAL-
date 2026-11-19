@@ -82,3 +82,4 @@ jobs:
         with:
           name: MEZO-ROYAL-APK
           path: project/MEZO_ROYAL_Project/build/MEZO_ROYAL.apk
+
